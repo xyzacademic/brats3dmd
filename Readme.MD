@@ -1,6 +1,11 @@
 Instruction
 -
 
+Install
+--
+
+Please install `Pytorch 1.3+`, `nvidia APEX`
+
 `single_train.py` - training script 
 
 `single_validation.py` - validation script (if you can provide label)
